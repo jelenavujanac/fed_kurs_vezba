@@ -11,7 +11,18 @@
 	<header>
 		<h1>Jelena Kanjuh</h1>
 		<h2>Front-end developer iz Novog Sada</h2>
+		<nav>
+			<ul>
+				<li>Pocetna</li>
+				<li>o meni</li>
+				<li>portfolio</li>
+				<li>kontakt</li>
+			</ul>
+		</nav>
 	</header>
+	<main>
+	
+	</main>
 	
 
 	<footer>Master footer!</footer>
