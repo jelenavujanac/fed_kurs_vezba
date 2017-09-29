@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+  	<meta name="viewport" content="width=device-width, initial-scale=1">
+  	<link rel="stylesheet" href="Bootstrap/bootstrap.min.css">
+  	<title>Git vezba</title>
+</head>
+	
+<body>
+	<header>
+		<h1>Jelena Kanjuh</h1>
+		<h2>Front-end developer iz Novog Sada</h2>
+	</header>
+	
+
+	<footer>Master footer!</footer>
+
+</body>
+
+<html>
